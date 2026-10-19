@@ -1,0 +1,8 @@
+image:       portainer/portainer-ce:latest
+archive:     portainer-ce-latest.zip
+zip_bytes:   44653234
+zip_sha256:  ea3ad0d83e902b8dac25c09f84ffa322cf5915fb9cbb16c1215655e41954e031
+parts:       1 (chunk size 95M)
+
+# sha256 of each part
+ea3ad0d83e902b8dac25c09f84ffa322cf5915fb9cbb16c1215655e41954e031 *portainer-ce-latest.zip.part00
