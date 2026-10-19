@@ -1,0 +1,8 @@
+image:       ubuntu:20.04
+archive:     ubuntu-20.04.zip
+zip_bytes:   26870777
+zip_sha256:  538bc2970fdfc474721d8d5af62fbe3dc76c23509168bcf244dcf6062c11868e
+parts:       1 (chunk size 95M)
+
+# sha256 of each part
+538bc2970fdfc474721d8d5af62fbe3dc76c23509168bcf244dcf6062c11868e *ubuntu-20.04.zip.part00
