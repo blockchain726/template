@@ -1,0 +1,8 @@
+image:       ubuntu:18.04
+archive:     ubuntu-18.04.zip
+zip_bytes:   25083057
+zip_sha256:  3eaf14ffd80964edea5a77f48083245208bf36cf7357713cc3197f506090901a
+parts:       1 (chunk size 95M)
+
+# sha256 of each part
+3eaf14ffd80964edea5a77f48083245208bf36cf7357713cc3197f506090901a *ubuntu-18.04.zip.part00
