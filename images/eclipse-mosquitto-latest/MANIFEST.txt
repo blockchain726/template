@@ -1,0 +1,8 @@
+image:       eclipse-mosquitto:latest
+archive:     eclipse-mosquitto-latest.zip
+zip_bytes:   12910230
+zip_sha256:  b9963a26713651f5a26d8ebf6be43af758cbf1a5d007edd04ff9056214860f4f
+parts:       1 (chunk size 95M)
+
+# sha256 of each part
+b9963a26713651f5a26d8ebf6be43af758cbf1a5d007edd04ff9056214860f4f *eclipse-mosquitto-latest.zip.part00
