@@ -1,0 +1,11 @@
+image:       node:20
+archive:     node-20.zip
+zip_bytes:   396308947
+zip_sha256:  bd5c9565c2ec782c8da90afa75215cb13cce9e979b0cf3887d92c9a707019109
+parts:       4 (chunk size 95M)
+
+# sha256 of each part
+c620d82e15b6163a624e81886f820ee53a39ddc5cd7c0c6ebc912352b109a1e5 *node-20.zip.part00
+2337aede427a4d548ad9e6f308b6fe91b488c1eb84a67fb96006d35c5a86bfc9 *node-20.zip.part01
+92a2562af53780aa4e6b9fbb48d47616b6a44be5f1ac45e52ef48390cac9ee7b *node-20.zip.part02
+8caf055f7caf24ea50a21f32dd3a8273dda780c9765aa3e2e43950379fc8e207 *node-20.zip.part03
