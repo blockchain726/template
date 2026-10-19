@@ -1,0 +1,12 @@
+# Split archive parts are binary - never apply EOL conversion or try to diff them.
+# (core.autocrlf=true on the authoring machine would otherwise corrupt them.)
+images/**/*.part*   binary -text -diff
+*.zip               binary -text -diff
+*.tar               binary -text -diff
+
+# Text files: pin line endings so they are stable across platforms.
+*.md    text eol=lf
+*.txt   text eol=lf
+*.sh    text eol=lf
+SHA256SUMS text eol=lf
+*.ps1   text eol=crlf
