@@ -1,0 +1,12 @@
+image:       python:3.12
+archive:     python-3.12.zip
+zip_bytes:   409444099
+zip_sha256:  90b8f7faff00755819cc13d345bd4aebf0b1b5824a59018ff6d1bab99bc9cc9d
+parts:       5 (chunk size 95M)
+
+# sha256 of each part
+665a485892f8a90f5a42616fa923ea6091a464b6ed66e8323220d396d16de556 *python-3.12.zip.part00
+549e2c14557e2ec81c245e130a697f808312510ac1ec816cf779418bac550cc3 *python-3.12.zip.part01
+21c8cc628d65decec03abfb11cc3e6669d2b878646ab10126dcb44cbc9ef74de *python-3.12.zip.part02
+824bf7b700ebae891569564af9fd9a3e074f405faa0b63aedc9ee1e383780fb9 *python-3.12.zip.part03
+bf3b7808e678629d3a8453007d37fa63429089c6b51aeb6d16b6822598c13a5a *python-3.12.zip.part04
