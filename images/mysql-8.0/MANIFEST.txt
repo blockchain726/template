@@ -1,0 +1,10 @@
+image:       mysql:8.0
+archive:     mysql-8.0.zip
+zip_bytes:   231475065
+zip_sha256:  3a25e9108b555b75af0c31686ea4058af1234f0743cfde9d5b51b660b9cc55eb
+parts:       3 (chunk size 95M)
+
+# sha256 of each part
+2e733788f5721c526fc649d5124fb57929435fb7cef763e3bce51b43d76616f4 *mysql-8.0.zip.part00
+5b6e3a1b53de1c780934dc29814982ef85c0e434a25d8c226f322527d1ac824d *mysql-8.0.zip.part01
+b17fc16ace7cde48f9dcaf6cc0e415a988a07cf23ca6691840fa072ddb62b90b *mysql-8.0.zip.part02
