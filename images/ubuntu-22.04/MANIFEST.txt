@@ -1,0 +1,8 @@
+image:       ubuntu:22.04
+archive:     ubuntu-22.04.zip
+zip_bytes:   29463688
+zip_sha256:  4c97056a1e680e1d0b70974bf05042adf794fa5a7dc40cfc265af0b3d89b83bf
+parts:       1 (chunk size 95M)
+
+# sha256 of each part
+4c97056a1e680e1d0b70974bf05042adf794fa5a7dc40cfc265af0b3d89b83bf *ubuntu-22.04.zip.part00
