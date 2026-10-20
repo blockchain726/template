@@ -22,6 +22,13 @@ file stays under GitHub's hard 100 MiB per-file limit. Parts live in
 
 **Total: 1.10 GB** across 8 images.
 
+## Documentation
+
+[**IIoT Communication Protocols - A Practical Guide**](docs/iiot-protocols/) - originally written
+guides to MQTT/Sparkplug, OPC UA, Modbus, industrial Ethernet, fieldbus, CoAP/AMQP/DDS,
+wireless and LPWAN, OT security and integration patterns. Also available as a single
+[49-page PDF](docs/iiot-protocols/IIoT-Communication-Protocols-Guide.pdf).
+
 ## Restore
 
 ### Linux / Ubuntu host
