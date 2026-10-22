@@ -151,3 +151,10 @@ Protocol specifications are revised. Before relying on a detail in these guides 
 implementation work, check the current version of the relevant document at the links
 above — particularly for OPC UA companion specifications, Sparkplug (which moved to
 3.0 under Eclipse), and TSN profiles, all of which are actively evolving.
+
+## Mirrored locally
+
+The freely redistributable subset of the documents above is mirrored in
+[`../specs/`](../specs/) - NIST guidance, the OASIS MQTT and AMQP standards, and the
+CoAP family of RFCs. Everything else in this page must be downloaded from its own
+source for the licensing reasons given there.

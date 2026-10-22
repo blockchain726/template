@@ -29,6 +29,10 @@ guides to MQTT/Sparkplug, OPC UA, Modbus, industrial Ethernet, fieldbus, CoAP/AM
 wireless and LPWAN, OT security and integration patterns. Also available as a single
 [49-page PDF](docs/iiot-protocols/IIoT-Communication-Protocols-Guide.pdf).
 
+[**Specification PDFs**](docs/specs/) - mirrored reference documents that are freely
+redistributable: NIST OT-security guidance, the OASIS MQTT 5.0/3.1.1 and AMQP 1.0
+standards, and the CoAP/CBOR/SenML RFCs. Copyrighted specs are linked, not mirrored.
+
 ## Restore
 
 ### Linux / Ubuntu host
